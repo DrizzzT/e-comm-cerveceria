@@ -4,12 +4,12 @@
 </p>
 </div>
 
+# E-Commerce
+E-commerce realizado en equipo como parte de instancia evaluativa en [Soy Henry](https://www.soyhenry.com/).
+
 <p align='left'>
     <img src='https://user-images.githubusercontent.com/65245824/95817516-0a599d80-0cf8-11eb-9eee-d9bdba249a6d.png' </img>  
 </p>
-
-# E-Commerce
-E-commerce realizado en equipo como parte de instancia evaluativa en [Soy Henry](https://www.soyhenry.com/).
 
 ## Construido con 🛠️
 * **JavaScript (ES6)**
